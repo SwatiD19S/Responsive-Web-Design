@@ -1,0 +1,35 @@
+  img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 20px;
+    width: 100%;
+    height: 500px;
+  } 
+  h4{
+    text-align: center;
+    color: #ffa500;
+    line-weight: 20px;
+  }
+  #main{
+    background-color: teal;
+  }
+  #title{
+    text-align: center;
+    color: #ffa500;
+  }
+  #img-div{
+    border-radius: 20px;
+    border-style: double;
+  }
+  #img-caption{
+    text-align: center;
+    background-color: #bfbfbf;
+    line-height: 40px;
+    border-radius: 20px;
+  }
+  #tribute-info{
+    text-align: justify;
+    line-height: 40px;
+    background-color: #ccffcc;
+  }
